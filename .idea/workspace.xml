@@ -19,15 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1b7ad9a-e311-4e81-bf23-ce2c502e4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/Dividend.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Market.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/rectangle-input.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/rectangle-input.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/cra.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/cra.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/reset.css" afterDir="false" />
-    </list>
+    <list default="true" id="b1b7ad9a-e311-4e81-bf23-ce2c502e4d35" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +62,7 @@
       <workItem from="1600330328907" duration="197000" />
       <workItem from="1600411848032" duration="105000" />
       <workItem from="1600412137740" duration="823000" />
-      <workItem from="1600476957455" duration="1392000" />
+      <workItem from="1600476957455" duration="1798000" />
     </task>
     <servers />
   </component>
